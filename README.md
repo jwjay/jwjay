@@ -26,7 +26,7 @@
 
 ### DB
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mariadbfoundation-#1F305F?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mariadb-#003545?style=flat-square&logo=MySql&logoColor=white"/></a>
 
 
 ### 📕 Others 📕
