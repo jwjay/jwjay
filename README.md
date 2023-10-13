@@ -31,13 +31,13 @@
 
 ### 📕 Others 📕
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ### 🔗Summary🔗
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&layout=compact)(https://github.com/jwjay/jwjay)
 
 
 <hr>
 
 ### ⚙️ Alogrithm Skills (BOJ)
-|Java|
-|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt9600)](https://solved.ac/kyt9600/)|
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt9600)](https://solved.ac/kyt9600/)
