@@ -28,7 +28,7 @@
 
 
 ### 🔗Summary🔗
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay)](https://github.com/jwjay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&layout=compact)](https://github.com/jwjay/github-readme-stats)
 
 <hr>
 
