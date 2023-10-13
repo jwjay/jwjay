@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ### 🔗Summary🔗
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&layout=compact)(https://github.com/jwjay/jwjay)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&langs_count=10&layout=compact&theme=dark)](https://github.com/jwjay/jwjay)
 
 
 <hr>
