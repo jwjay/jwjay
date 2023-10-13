@@ -10,6 +10,7 @@
 
 ### 📗 Languages 📗
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 📙 Back-End 📙
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -25,13 +26,15 @@
 
 ### DB
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mariadbfoundation-#1F305F?style=flat-square&logo=MySql&logoColor=white"/></a>
+
 
 ### 📕 Others 📕
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ### 🔗Summary🔗
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjay&layout=compact)
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=white)](https://github.com/jwjay)
 
 <hr>
 
