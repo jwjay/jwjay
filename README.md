@@ -8,4 +8,4 @@
 ### Tech Stack
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <hr>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt9600)](https://solved.ac/kyt9600)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt9600)](https://solved.ac/kyt9600/)
