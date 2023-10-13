@@ -5,16 +5,15 @@
 ### Info
 안녕하세요. 백엔드 개발자를 꿈꾸는 전재우입니다.
 <hr>
-#### 👇 Contact me 👇
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kyt9600@gmail.com)
-<hr>
 
 ## 🌱 My Stacks & Skills...
 
-
-
 ### 📗 Languages 📗
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+### 📙 Back-End 📙
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### 📘 Front-End 📘
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -24,10 +23,6 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
 
-### 📙 Back-End 📙
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
 ### DB
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 
@@ -36,7 +31,7 @@
 
 ### 🔗Summary🔗
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyt9600)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=white)](https://github.com/jwjay)
 
 <hr>
 
