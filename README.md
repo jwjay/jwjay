@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwjay%2Fjwjay%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Info
-안녕하세요. SW 개발자를 꿈꾸는 전재우입니다. [포트폴리오](https://tan-okapi-77d.notion.site/7b086331d4a246ab9fca380d9d29c588?pvs=74)
+안녕하세요. SW 개발자를 꿈꾸는 전재우입니다.
 <hr>
 
 ## 🔨 My Stacks & Skills 🔨
